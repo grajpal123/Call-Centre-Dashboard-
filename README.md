@@ -15,16 +15,16 @@
 7) Top 10 agents / acceptance 
 8) Total percentage of top 10 agents/calls 
 9) Total percentage of top 10 agent/acceptance
-10)Total Records
-11)Total Transfer 
-12)Total calls with Offer
-13)Total calls with Applied 
-14)Total calls with Regen
-15)Total percentage of calls with offer / applied / regen
-16)Total Calls with No Offer 
-17)Unpicked calls 
-18)Total percentage of accept 
-19)Total percentage of transfer
+10) Total Records
+11) Total Transfer 
+12) Total calls with Offer
+13) Total calls with Applied 
+14) Total calls with Regen
+15) Total percentage of calls with offer / applied / regen
+16) Total Calls with No Offer 
+17) Unpicked calls 
+18) Total percentage of accept 
+19) Total percentage of transfer
 
 ## Definition
 Calls Handled: Inbound call taken by an agent
